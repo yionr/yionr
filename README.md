@@ -13,17 +13,18 @@
 [![express](https://img.shields.io/badge/express-FF996E?style=flat-square&logo=express)]()
 ---
 [![centos](https://img.shields.io/badge/centos-0099FF?style=flat-square&logo=centos)]()
+[![frp](https://img.shields.io/badge/frp-CCFFA6?style=flat-square)]()
 [![docker](https://img.shields.io/badge/docker-FFF7AB?style=flat-square&logo=docker)]()
 [![nginx](https://img.shields.io/badge/nginx-A8FFEE?style=flat-square&logo=nginx)]()
 [![hadoop](https://img.shields.io/badge/hadoop-FFE0D4?style=flat-square&logo=Apache-Hadoop)]()
 ---
 [![git](https://img.shields.io/badge/git-8C98FF?style=flat-square&logo=git)]()
 ---
+玩耍中：
 [![notion](https://img.shields.io/badge/notion-57CDFF?style=flat-square&logo=notion)]()
 [![synology](https://img.shields.io/badge/synology-FFEA00?style=flat-square&logo=synology)]()
 [![raspberry-pi](https://img.shields.io/badge/raspberry_pi-FFCD7D?style=flat-square&logo=raspberry-pi)]()
 [![mikrotik](https://img.shields.io/badge/mikrotik-0F0FFF?style=flat-square)]()
-[![frp](https://img.shields.io/badge/frp-CCFFA6?style=flat-square)]()
 
 ### Spotify Playing 🎧
 
