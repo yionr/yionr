@@ -5,7 +5,7 @@
 [![jquery](https://img.shields.io/badge/jquery-0769ad?style=flat-square&logo=jquery)]()
 [![bootstrap](https://img.shields.io/badge/bootstrap-ffe484?style=flat-square&logo=bootstrap)]()
 [![Vue.js](https://img.shields.io/badge/Vue.js(2|3)-85E4FF?style=flat-square&logo=vue.js)]()
-[![vant](https://img.shields.io/badge/vant-black?style=flat-square)]()
+[![vant](https://img.shields.io/badge/vant-001938?style=flat-square)]()
 [![element](https://img.shields.io/badge/element-409eff?style=flat-square)]()
 [![Webpack](https://img.shields.io/badge/Webpack-FFE9AB?style=flat-square&logo=webpack)]()
 ---
