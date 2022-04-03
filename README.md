@@ -28,4 +28,4 @@
 
 ### Spotify Playing 🎧
 
-[![Spotify](https://novatorem-yionr.vercel.app/api/spotify)](https://open.spotify.com/user/yionr)
+[![Spotify](https://novatorem-yionr.vercel.app/api/spotify)](https://open.spotify.com/user/31su7yqfmlsk6uwt6hsj2lkw3sru)
