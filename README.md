@@ -28,6 +28,4 @@
 
 ### Spotify Playing 🎧
 
-<iframe src="https://dev.homelab-40n.pages.dev/spotify" frameborder="0" width="300" height="150"></iframe>
-
 [![Spotify](https://novatorem-yionr.vercel.app/api/spotify)](https://open.spotify.com/user/31su7yqfmlsk6uwt6hsj2lkw3sru)
