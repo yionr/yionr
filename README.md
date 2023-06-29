@@ -10,25 +10,25 @@ I'm interested in frontend development!
 
 **Frontend Skills** :
 
-[![My Frontend Skills](https://skillicons.dev/icons?i=vue,react)](#tech-stacks)
+[![My Frontend Skills](https://skillicons.dev/icons?i=vue,react)](#tech-stacks-)
 
 ---
 
 **Backend Skills** :
 
-[![My Backtend Skills](https://skillicons.dev/icons?i=spring)](#tech-stacks)
+[![My Backtend Skills](https://skillicons.dev/icons?i=spring)](#tech-stacks-)
 
 ---
 
 **DevOps Skills** :
 
-[![My Server Skills](https://skillicons.dev/icons?i=linux,docker,nginx)](#tech-stacks)
+[![My Server Skills](https://skillicons.dev/icons?i=linux,docker,nginx)](#tech-stacks-)
 
 ---
 
 **Others** :
 
-[![Other Skills](https://skillicons.dev/icons?i=git,cloudflare)](#tech-stacks)
+[![Other Skills](https://skillicons.dev/icons?i=git,cloudflare)](#tech-stacks-)
 
 
 #### Under learning
@@ -39,6 +39,9 @@ I'm interested in frontend development!
 
 <a href="#statistics">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yionr&layout=compact" />
+</a>
+
+<a href="#statistics">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=yionr&show_icons=true" />
 </a>
 
