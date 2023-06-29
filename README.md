@@ -7,30 +7,38 @@ Welcome to visit my blog: 🏠[yionr.cn](https://yionr.cn)
 
 **Frontend Skills** :
 
-[![My Frontend Skills](https://skillicons.dev/icons?i=vue,react)](https://skillicons.dev)
+![My Frontend Skills](https://skillicons.dev/icons?i=vue,react)
+
+<img align="center" src="https://skillicons.dev/icons?i=spring" />
 
 ---
 
 **Backend Skills** :
 
-[![My Backtend Skills](https://skillicons.dev/icons?i=spring)](https://skillicons.dev)
+![My Backtend Skills](https://skillicons.dev/icons?i=spring)
 
 ---
 
 **DevOps Skills** :
 
-[![My Server Skills](https://skillicons.dev/icons?i=linux,docker,nginx)](https://skillicons.dev)
+![My Server Skills](https://skillicons.dev/icons?i=linux,docker,nginx)
 
 ---
 
 **Others** :
 
-[![Other Skills](https://skillicons.dev/icons?i=git,cloudflare,)](https://skillicons.dev)
+![Other Skills](https://skillicons.dev/icons?i=git,cloudflare)
 
 
 ## Under learning
 
-[![Under learning](https://skillicons.dev/icons?i=workers,vim,ts,threejs,tailwind,)](https://skillicons.dev)
+![Under learning](https://skillicons.dev/icons?i=workers,vim,ts,threejs,tailwind)
+
+## Statistics
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yionr&layout=compact" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=yionr&show_icons=true" />
+
 
 ### Spotify Playing 🎧
 
