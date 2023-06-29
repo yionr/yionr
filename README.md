@@ -9,8 +9,6 @@ Welcome to visit my blog: 🏠[yionr.cn](https://yionr.cn)
 
 ![My Frontend Skills](https://skillicons.dev/icons?i=vue,react)
 
-<img align="center" src="https://skillicons.dev/icons?i=spring" />
-
 ---
 
 **Backend Skills** :
