@@ -30,10 +30,11 @@ I'm interested in frontend development!
 
 [![Other Skills](https://skillicons.dev/icons?i=git,cloudflare)](#tech-stacks-)
 
+---
 
 #### Under learning
 
-[![Under learning](https://skillicons.dev/icons?i=workers,vim,ts,threejs,tailwind)](#under-learning)
+[![Under learning](https://skillicons.dev/icons?i=ts,threejs,tailwind,workers,vim)](#under-learning)
 
 ### Statistics
 
