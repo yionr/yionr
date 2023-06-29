@@ -1,5 +1,5 @@
 ### Hi there 👋
-🏠[yionr.cn](https://yionr.cn)
+Welcome to my blog: 🏠[yionr.cn](https://yionr.cn)
 
 ### Tech Stacks 🐾
 [![jquery](https://img.shields.io/badge/jquery-0769ad?style=flat-square&logo=jquery)]()
@@ -20,7 +20,7 @@
 ---
 [![git](https://img.shields.io/badge/git-8C98FF?style=flat-square&logo=git)]()
 ---
-玩耍中：
+Under learning：
 [![notion](https://img.shields.io/badge/notion-57CDFF?style=flat-square&logo=notion)]()
 [![synology](https://img.shields.io/badge/synology-FFEA00?style=flat-square&logo=synology)]()
 [![raspberry-pi](https://img.shields.io/badge/raspberry_pi-FFCD7D?style=flat-square&logo=raspberry-pi)]()
