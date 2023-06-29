@@ -38,11 +38,8 @@ I'm interested in frontend development!
 ### Statistics
 
 <a href="#statistics">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yionr&layout=compact" />
-</a>
-
-<a href="#statistics">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=yionr&show_icons=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=yionr&show_icons=true" height=160/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yionr&layout=compact" height=160/>
 </a>
 
 ### Spotify Playing 🎧
