@@ -33,7 +33,7 @@ I'm interested in frontend development!
 
 #### Under learning
 
-![Under learning](https://skillicons.dev/icons?i=workers,vim,ts,threejs,tailwind)
+[![Under learning](https://skillicons.dev/icons?i=workers,vim,ts,threejs,tailwind)](#)
 
 ### Statistics
 
