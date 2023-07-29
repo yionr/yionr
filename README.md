@@ -6,6 +6,8 @@
 
 I'm interested in frontend development!
 
+I still have a strong desire to connect with a foreign pen pal who speaks English 🌻
+
 **About me**
 
 - 💼 Frontend Engineer at [SAB](https://www.weixing.cn/)
