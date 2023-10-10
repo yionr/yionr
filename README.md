@@ -6,11 +6,12 @@
 
 I'm interested in frontend development!
 
-I still have a strong desire to connect with a foreign pen pal who speaks English 🌻
-
 **About me**
 
 - 💼 Frontend Engineer at [SAB](https://www.weixing.cn/)
+- 📖 Learning English and **日本語**
+- 💾 HomeLaber
+
 
 ### Tech Stacks 🐾
 
@@ -22,11 +23,11 @@ I still have a strong desire to connect with a foreign pen pal who speaks Englis
 
 **Frontend Skills** :
 
-[![My Frontend Skills](https://skillicons.dev/icons?i=vue,react)](#tech-stacks-)
+[![My Frontend Skills](https://skillicons.dev/icons?i=vue,react,lit)](#tech-stacks-) 、uni-app
 
 **Backend Skills** :
 
-[![My Backtend Skills](https://skillicons.dev/icons?i=spring)](#tech-stacks-)
+[![My Backtend Skills](https://skillicons.dev/icons?i=spring,nodejs)](#tech-stacks-) 、SQLServer
 
 <a href="#no-where">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yionr&layout=compact" height=160  width="50%"/>
@@ -38,10 +39,10 @@ I still have a strong desire to connect with a foreign pen pal who speaks Englis
 
 **Others** :
 
-[![Other Skills](https://skillicons.dev/icons?i=git,cloudflare)](#tech-stacks-)
+[![Other Skills](https://skillicons.dev/icons?i=git,cloudflare)](#tech-stacks-) 、Axure
 
 ---
 
 #### Under learning
 
-[![Under learning](https://skillicons.dev/icons?i=ts,threejs,tailwind,workers,vim)](#under-learning)
+[![Under learning](https://skillicons.dev/icons?i=ts,threejs,tailwind,workers,vim,jest,idea,github,bash)](#under-learning)
